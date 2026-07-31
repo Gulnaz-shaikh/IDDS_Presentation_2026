@@ -1,9 +1,9 @@
- E-Commerce Performance Dashboard
+# E-Commerce Performance Dashboard
 
- Overview
+## Overview
 This project is an interactive Power BI dashboard built to analyze the performance of an e-commerce business. It provides insights into sales, profit, customer traffic, marketing performance, and product refunds through interactive visualizations and KPIs.
 
- Objectives
+## Objectives
 - Monitor key business performance indicators.
 - Analyze revenue and profit trends.
 - Evaluate website traffic by device type.
@@ -11,7 +11,7 @@ This project is an interactive Power BI dashboard built to analyze the performan
 - Identify products with high refund amounts.
 - Support data-driven business decisions.
 
- Dashboard Features
+## Dashboard Features
 - Revenue KPI
 - Total Orders KPI
 - Conversion Rate (CVR)
@@ -23,13 +23,13 @@ This project is an interactive Power BI dashboard built to analyze the performan
 - Website Sessions by UTM Source
 - Interactive Date Range Filter
 
- Tools Used
+## Tools Used
 - Power BI
 - Power Query
 - DAX
 - Microsoft Excel
 
- Skills Demonstrated
+## Skills Demonstrated
 - Data Cleaning
 - Data Transformation
 - Data Modeling
@@ -39,7 +39,7 @@ This project is an interactive Power BI dashboard built to analyze the performan
 - Business Analytics
 - Data Visualization
 
- Key Business Insights
+## Key Business Insights
 - Tracks overall business performance using KPIs.
 - Identifies the most effective marketing channels.
 - Monitors monthly revenue trends.
@@ -47,7 +47,7 @@ This project is an interactive Power BI dashboard built to analyze the performan
 - Highlights products with the highest refund amounts.
 - Enables interactive analysis through date filters.
 
- Repository Contents
+## Repository Contents
 - Power BI Dashboard (.pbix)
 - Dashboard Presentation (.pdf)
 - Dataset (.xlsx)
